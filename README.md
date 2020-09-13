@@ -1,5 +1,6 @@
 ## Hi there 👋
-[Linkedln]{https://www.linkedin.com/in/pragya-singh-01122017a/}
+[Linkedln](https://www.linkedin.com/in/pragya-singh-01122017a/)
+
 
 <!--
 **pragya376/pragya376** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
