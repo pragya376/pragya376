@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Linkedln](https://www.linkedin.com/in/pragya-singh-01122017a/.png)
+[![Linkedln](extras/logo.gif)](https://www.linkedin.com/in/pragya-singh-01122017a/)
 
 
 <!--
