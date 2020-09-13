@@ -1,6 +1,8 @@
 ## Hi there 👋
-[![linkedln](https://user-images.githubusercontent.com/64967140/93013238-2c121880-f5c4-11ea-8577-c41e2b44e86d.png)](https://www.linkedin.com/in/pragya-singh-01122017a/)
+[![linkedln](https://user-images.githubusercontent.com/64967140/93013238-2c121880-f5c4-11ea-8577-c41e2b44e86d.png)](https://www.linkedin.com/in/pragya-singh-01122017a/)[![gmail](https://user-images.githubusercontent.com/64967140/93013237-23214700-f5c4-11ea-875d-422bd8ba8a65.png)](mailto:pragyatomar1611@gmail.com)
 
+
+--
 **pragya376/pragya376** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
